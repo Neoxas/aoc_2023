@@ -1,0 +1,11 @@
+name = "ada_aoc_2023"
+description = "Shiny new project"
+version = "0.1.0-dev"
+
+authors = ["Alex Powell"]
+maintainers = ["Alex Powell <alexjohnpowell93@gmail.com>"]
+maintainers-logins = ["Neoxas"]
+
+executables = ["ada_aoc_2023"]
+[[depends-on]]
+gnatprove = "^13.2.1"
